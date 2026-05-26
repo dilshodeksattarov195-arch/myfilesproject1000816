@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesecrypt",
+        "uuid": 3482688,
+        "checksum": "vximw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
